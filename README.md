@@ -1,2 +1,0 @@
-# Copy-Position
-main
